@@ -6,7 +6,7 @@
 
 <div align="center" style="text-align:center">
   
-![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=transparent&height=70&section=header&text=LILOWA's%20Github&fontSize=30&fontcolor=#39ACE5)
+![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=transparent&height=70&section=header&text=LILOWA's%20Github&fontSize=30&color=#39ACE5)
 
 <!--- badges from https://github.com/Ileriayo/markdown-badges --->
 <p align="center">
