@@ -10,7 +10,7 @@
 
 <!--- badges from https://github.com/Ileriayo/markdown-badges --->
 <p align="center">
-<img src="https://pbs.twimg.com/media/CgzkPYQWMAIF51y.jpg" width=80%></img>
+<img src="https://pbs.twimg.com/media/CgzkPYQWMAIF51y.jpg" width=70%></img>
 
 
 <h4 align="center"&fontColor=0094ff>🍧 Techs 🍧</h4> 
