@@ -6,7 +6,7 @@
 <hr>-->
 <div align="center" style="text-align:center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0094ff&height=180&section=header&text=LILOWA's%20Github&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=180&section=header&text=LILOWA's%20Github&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
 
 <!--- badges from https://github.com/Ileriayo/markdown-badges --->
 <p align="center">
