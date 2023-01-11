@@ -6,7 +6,7 @@
 <hr>-->
 <div align="center" style="text-align:center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0094ff&height=180&section=header&text=⚡LILOWA's%20Github%20&fontSize=30&animation=fadeIn&fontAlignY=34&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0094ff&height=180&section=header&text=🌊%20LILOWA's%20Github%20&fontSize=30&animation=fadeIn&fontAlignY=34&fontColor=ffffff"/>
 
 <!--- badges from https://github.com/Ileriayo/markdown-badges --->
 <p align="center">
@@ -21,7 +21,7 @@
 
 </p>
 <hr>
-<h4 align="center">🌊</h4>
+<h4 align="center">⚡</h4>
 
 <div align="center" style="text-align:center">
  
