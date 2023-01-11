@@ -18,6 +18,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LILOWA&show_icons=true&theme=vue)  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LILOWA&layout=compact)](https://github.com/LILOWA/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LILOWA&exclude_repo=github-readme-stats,LILOWA.github.io)](https://github.com/LILOWA/github-readme-stats)
 
 </p>
 <hr>
