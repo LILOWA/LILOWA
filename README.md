@@ -6,7 +6,7 @@
 <hr>
 <div align="center" style="text-align:center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:73b6e5,100:bfe4ff&height=180&section=header&text=LILOWA's%20Github&fontSize=30animation=fadIn%fontAlignY=34&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:73b6e5&height=180&section=header&text=LILOWA's%20Github&fontSize=32animation=fadIn&fontAlignY=36&fontColor=ffffff"/>
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=0:73b6e5,100:bfe4ff&height=180&section=header&text=LILOWA's%20Github&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
 <!--![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=wavingt&&height=50&section=header&text=🌊LILOWA's%20Github🌊&fontSize=30&color=blue)-->
 
