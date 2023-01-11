@@ -10,7 +10,7 @@
 
 <!--- badges from https://github.com/Ileriayo/markdown-badges --->
 <p align="center">
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=197947346109511696" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=197947346109511696" height="295" width="345" frameborder="0" scrolling="no" ></img>
 
 | <h4 align="center">⚡ Techs :</h4> |
 |:---:   |
