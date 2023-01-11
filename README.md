@@ -10,7 +10,7 @@
 
 <!--- badges from https://github.com/Ileriayo/markdown-badges --->
 <p align="center">
-<img src="[https://assets.pinterest.com/ext/embed.html?id=197947346109511696](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlDWG0V_LdEKDWRL0HvXwVWnLDr3dFubiVw9Sz240ywT3-UPRu)" height="295" width="345" frameborder="0" scrolling="no" ></img>
+<img src="https://i.pinimg.com/564x/62/6a/d7/626ad71aa6ab1c6d7df2d911137b8f81.jpg"></img>
 
 | <h4 align="center">⚡ Techs :</h4> |
 |:---:   |
