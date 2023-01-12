@@ -28,7 +28,7 @@
 
 </p>
 <hr>
-<h4 align="center">⚡</h4>
+<h4 align="center">🌊</h4>
 
 <div align="center" style="text-align:center">
  
