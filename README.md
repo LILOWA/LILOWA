@@ -21,7 +21,8 @@
   
   
 <!--https://github.com/anuraghazra/github-readme-stats-->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lilowa&show_icons=true&theme=vue)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilowa&layout=compact&theme=vue&hide_border=true)](https://github.com/Lilowa/github-readme-stats)<br><br><br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lilowa&show_icons=true&theme=vue)   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilowa&layout=compact&theme=vue&hide_border=true)](https://github.com/Lilowa/github-readme-stats)<br><br><br>
 
 
 
